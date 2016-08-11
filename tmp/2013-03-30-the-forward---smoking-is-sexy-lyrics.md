@@ -1,0 +1,12 @@
+---
+layout: post
+date: 2013-03-30 07:52:43 GMT
+title: "The Forward - Smoking Is Sexy (lyrics)"
+---
+<p><span>Хотел как-то найти текст к этой </span><a href="http://grooveshark.com/#!/album/Smoking+Is+Sexy+Single/872093" title="песне">песне</a><span>, но почему-то во всем большом интернете его не оказалось, поэтому решил послушать песню повнимательней и постараться написать его. Не всё осталось мне понятно, но, лучше чем ничего. Если есть идеи, как его исправить, я буду рад их услышать.</span></p>
+<p>Sweating less is more of what I&rsquo;m all about <br /> I confess to first and just in figure out<br /> And when I&rsquo;m walking down the street<br /> I&rsquo;m looking for the very thing that I can&rsquo;t hand<br /> And when I&rsquo;m walking down the street<br /> I&rsquo;m looking for the very thing that I can&rsquo;t hand&hellip;. can&rsquo;t hand&hellip; can&rsquo;t ha-and</p>
+<p>You take all the money you tell me no, no, no, no<br /> I can&rsquo;t use it the way I want to<br /> You take all the money you tell me no, no, no, no<br />I can&rsquo;t use it the way I want to</p>
+<p>Choking off I can&rsquo;t do more than what it tries<br /> I&rsquo;m willing to tap them down that tell the price<br /> And when I&rsquo;m walking down the street<br /> I&rsquo;m looking for the very thing that I can&rsquo;t hand<br /> And when I&rsquo;m watching a TV <br /> I wanna be the very thing that you (so bad?) You take all the money you tell me no, no, no, no<br /> I can&rsquo;t use it the way I want to<br /> You take all the money you tell me no, no, no, no<br />I can&rsquo;t use it the way I want to</p>
+<p>And all it starts again<br /> And I&rsquo;m promising (&hellip;&nbsp;?)<br /> I would take you take you there<br /> It&rsquo;s time to leave<br /> And I promise and I promise I&rsquo;ll laugh it out Sweating less is more of what I&rsquo;m all about<br /> I confess to&nbsp;<span>first</span>&nbsp;and just in figure out<br /> You take all the money you tell me no, no, no, no<br /> I can&rsquo;t use it the way I want to<br /> You take all the money you tell me no, no, no, no<br />I can&rsquo;t use it the way I want to</p>
+<p>You take all the money you tell me no, no, no-o-o<br /> All the money you tell me no, no, no-o-o<br /> All the money you tell me no, no, no-o-o<br /> All the money you tell me no, no, no-o-o</p>
+<p></p>

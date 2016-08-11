@@ -1,0 +1,16 @@
+baseurl: "http://theuniversearound.com/"
+url: "http://theuniversearound.com/"
+languageCode: "ru-RU"
+title: "The Universe Around"
+theme: "beautifulhugo"
+disqusShortname: "theuniversearound"
+googleAnalytics: "UA-10647442-14"
+
+params:
+  logo: "images/avatar.jpg"
+  subtitle: ""
+
+author:
+  name: "Поттер Михаил"
+  email: "michaelpotter@mail.ru"
+  twitter: "dude1366"
