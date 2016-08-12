@@ -8,14 +8,14 @@
       </article>
 
       <ul class="pager blog-pager">
-        {{ if .PrevInSection }}
+      {{ if .NextInSection }}
         <li class="previous">
-          <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; Предыдущая запись</a>
+          <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">&larr; Следующая запись</a>
         </li>
         {{ end }}
-        {{ if .NextInSection }}
+        {{ if .PrevInSection }}
         <li class="next">
-          <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">Следующая запись &rarr;</a>
+          <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">Предыдущая запись &rarr;</a>
         </li>
         {{ end }}
       </ul>
