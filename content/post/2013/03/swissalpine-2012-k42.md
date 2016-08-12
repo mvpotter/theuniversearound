@@ -5,7 +5,7 @@ tags = ["Бег", "Марафон", "Швейцария", "Давос", "Спо�
 title = "Swissalpine 2012. K42."
 +++
 
-[Часть 2](http://theuniversearound.tumblr.com/post/46657613241/swissalpine-2012-davos)
+[Часть 2]({{< relref "swissalpine-2012-davos.md" >}})
 
 Многие спрашивают меня, где и когда я собираюсь бежать марафон. В связи с этим я и решил написать небольшой пост о нём.
 
@@ -45,4 +45,4 @@ title = "Swissalpine 2012. K42."
 
 Информация о погодных условиях позаимствована с сайта [weather-and-climate.com](http://www.weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,davos-platz,Switzerland).
 
-[Часть 2](http://theuniversearound.tumblr.com/post/46657613241/swissalpine-2012-davos)
+[Часть 2]({{< relref "swissalpine-2012-davos.md" >}})

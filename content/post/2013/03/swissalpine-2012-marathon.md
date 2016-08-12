@@ -5,7 +5,7 @@ tags = ["Бег", "Марафон", "Швейцария", "Давос", "Спо�
 title = "Swissalpine 2012. Marathon."
 +++
 
-[Часть 3](http://theuniversearound.tumblr.com/post/46657622418/swissalpine-2012)
+[Часть 3]({{< relref "swissalpine-2012-final-preparations.md" >}})
 
 Наконец, настал день марафона. К сожалению, старт у меня был в 11:30 и полдня я промучался в волнении и безделии. Вечером казалось, что пока позавтракаю, намажусь кремом от загара оденусь, собиру все необходимые вещи с собой - настанет время ехать на старт, но сделал я всё невероятно быстро, поэтому пришлось немного побродить без дела, послушать музыку, ещё раз взгянуть на карты с маршрутом и перепадом высот.
 
@@ -25,7 +25,7 @@ title = "Swissalpine 2012. Marathon."
 
 ![image](/images/f212c89e27acc3439b62827bf31da5d29a944d258ff4096f9d3f2898f1577c10.jpg)
 
-[![image](/images/8def7d8d3bdc51ba0c59c15572300b2297a147f266f81ec3e8cbfe4b9ebf1f3b.jpg)](http://rocket-man.posterous.com/swissalpine-2012-marathon-96818)
+![image](/images/8def7d8d3bdc51ba0c59c15572300b2297a147f266f81ec3e8cbfe4b9ebf1f3b.jpg)
 
 Перед стартом включили песню Vangelis - Conquest of Paradise. Очень эффектно выглядело: стоит много людей, с неба льется проливной дождь, доносятся звуки грома и всё под пение хора.
 
@@ -85,6 +85,16 @@ title = "Swissalpine 2012. Marathon."
 
 Далее, несколько фотографий, которые были сделаны во время осмотра трассы:
 
-![image](/images/7305e53fe8c29a7f54e57670a04ff984f0f3e8bcb43cc70683fbdd52dc70891a.jpg) ![image](/images/44be02bcb0ffe714223c7aa21b2469848cf9678d42f2ccf6fed92fab773a43ab.jpg) ![image](/images/5bd10562329553e6b385a22d98b22921dbb70cac96e4d29059bd8902ea0e8fa0.jpg) ![image](/images/c18c68595d8e801df61643f099b777d912b9a1bd2cf44ebb159a98bb67f13b43.jpg) ![image](/images/af7c40924e479183b8996937e7d717b42b0106c028d9f1fb0f825a438b59143d.jpg) ![image](/images/0a5cfe4fde3e627844ff880d759c57c76ba2837d5a08c412904921b69566b7c5.jpg) ![image](/images/76dfcb85c14f61d74a7ce94ced58573193a421f5997d8ba33252c9a2ca0e4e63.jpg) ![image](/images/955f6db91c0e1a57310e72134a97c7e185076dafa0c6020b9fd7378c9b37b701.jpg) ![image](/images/cf5015f1c83c81e4d0ef3145b92bd26cf4e2ef3a9b5ed13dcb76e7748f06c4da.jpg) ![image](/images/016954de09492fb3e67e772455cb35adf067d2b78f6a6119e900f0639686b057.jpg) ![image](/images/724a4d4251bd30777b512df6c5e393d7544e169255438e6405b3705e0bae4dfe.jpg)
+![image](/images/7305e53fe8c29a7f54e57670a04ff984f0f3e8bcb43cc70683fbdd52dc70891a.jpg) 
+![image](/images/44be02bcb0ffe714223c7aa21b2469848cf9678d42f2ccf6fed92fab773a43ab.jpg) 
+![image](/images/5bd10562329553e6b385a22d98b22921dbb70cac96e4d29059bd8902ea0e8fa0.jpg) 
+![image](/images/c18c68595d8e801df61643f099b777d912b9a1bd2cf44ebb159a98bb67f13b43.jpg) 
+![image](/images/af7c40924e479183b8996937e7d717b42b0106c028d9f1fb0f825a438b59143d.jpg) 
+![image](/images/0a5cfe4fde3e627844ff880d759c57c76ba2837d5a08c412904921b69566b7c5.jpg) 
+![image](/images/76dfcb85c14f61d74a7ce94ced58573193a421f5997d8ba33252c9a2ca0e4e63.jpg) 
+![image](/images/955f6db91c0e1a57310e72134a97c7e185076dafa0c6020b9fd7378c9b37b701.jpg) 
+![image](/images/cf5015f1c83c81e4d0ef3145b92bd26cf4e2ef3a9b5ed13dcb76e7748f06c4da.jpg) 
+![image](/images/016954de09492fb3e67e772455cb35adf067d2b78f6a6119e900f0639686b057.jpg) 
+![image](/images/724a4d4251bd30777b512df6c5e393d7544e169255438e6405b3705e0bae4dfe.jpg)
 
-[Часть 3](http://theuniversearound.tumblr.com/post/46657622418/swissalpine-2012)
+[Часть 3]({{< relref "swissalpine-2012-final-preparations.md" >}})

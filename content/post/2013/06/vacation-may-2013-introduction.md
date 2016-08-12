@@ -13,18 +13,18 @@ title = "Отпуск. Май 2013. Вступление."
 
 Далее о каждом городке по порядку:
 
-[Эрдинг](http://theuniversearound.tumblr.com/post/52222162480/2013-1)
+[Эрдинг]({{< relref "vacation-may-2013-erding.md" >}})
 
-[Тосколано-Мадерно](http://theuniversearound.tumblr.com/post/52470964705/2013-2)
+[Тосколано-Мадерно]({{< relref "vacation-may-2013-toscolano-maderno.md" >}})
 
-[Верона](http://theuniversearound.tumblr.com/post/52862774087/2013-3)
+[Верона]({{< relref "vacation-may-2013-verona.md" >}})
 
-[Венеция](http://theuniversearound.tumblr.com/post/54517689586/2013-4)
+[Венеция]({{< relref "vacation-may-2013-venice.md" >}})
 
-[Сан-Марино](http://theuniversearound.tumblr.com/post/55776724871/2013-5)
+[Сан-Марино]({{< relref "vacation-may-2013-san-marino.md" >}})
 
-[Флоренция](http://theuniversearound.tumblr.com/post/57061998084/2013-6)
+[Флоренция]({{< relref "vacation-may-2013-florence.md" >}})
 
-[Пиза](http://theuniversearound.tumblr.com/post/57875083885/2013-7)
+[Пиза]({{< relref "vacation-may-2013-pisa.md" >}})
 
-[Милан](http://theuniversearound.tumblr.com/post/59403623529/2013-8)
+[Милан]({{< relref "vacation-may-2013-milano.md" >}})

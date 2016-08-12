@@ -5,7 +5,7 @@ tags = ["Бег", "Марафон", "Швейцария", "Давос", "Спо�
 title = "Swissalpine 2012. Последние приготовления."
 +++
 
-[Часть 2](http://theuniversearound.tumblr.com/post/46657613241/swissalpine-2012-davos)    [Часть 4](http://theuniversearound.tumblr.com/post/46657649209/swissalpine-2012-marathon)
+[Часть 2]({{< relref "swissalpine-2012-davos.md" >}})    [Часть 4]({{< relref "swissalpine-2012-marathon.md" >}})
 
 Накануне перед марафоном проходила лекция по основам swissalpine, на которой лектор рассказывал о специфике бега в горах и какие сюрпризы могут нас ждать. Оттуда мне запомнились три вещи:
 
@@ -33,4 +33,4 @@ title = "Swissalpine 2012. Последние приготовления."
 
 ![image](/images/de03ab8ee3d558240b2291399c2d79429f504ecde78b77f04949697cdc865e9e.jpg)
 
-[Часть 2](http://theuniversearound.tumblr.com/post/46657613241/swissalpine-2012-davos)     [Часть 4](http://theuniversearound.tumblr.com/post/46657649209/swissalpine-2012-marathon)
+[Часть 2]({{< relref "swissalpine-2012-davos.md" >}})    [Часть 4]({{< relref "swissalpine-2012-marathon.md" >}})
