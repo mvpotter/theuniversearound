@@ -5,6 +5,6 @@ tags = "Юмор"
 title = "Photo post"
 +++
 
-![image](/images/4368ddf37c2798c4a0352a464c226bf08170ceba40db36cfdb76ed8b0bd6f657.jpg)
+![image](../monday.jpg)
 
 Картинка просто сделала день

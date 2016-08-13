@@ -74,4 +74,4 @@ title = "Подготовка к Ironman Barcelona"
 
 *"Make friends with pain, and you will never be alone" - Ken Chlouber*
 
-![image](/images/e3a71a2c5a699eb9c8d21d1f46a2c06b4297417c3a3c8510d585db55f95cd3fb.jpg)
+![image](../ironman-barcelona-preparations-1.jpg)
