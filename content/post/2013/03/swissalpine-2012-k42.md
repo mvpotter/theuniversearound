@@ -13,7 +13,7 @@ title = "Swissalpine 2012. K42."
 
 Марафон, который выбрал я, называется **[K42](http://www.swissalpine.ch/cms/k42-competition.phtml)**. Он считается марафоном с наибольшим перепадом высот во всей Европе. Соответственно, он включает в себя бег в/под гору, а также местами трасса проходит через скалистую местность, что добавляет ему сложности и в то же время делает интересней.
 
-![image](../swissalpine-2012-k42-1.jpg)
+![image](/post/2013/03/swissalpine-2012-k42-1.jpg)
 
 *Карта перепада высот K42.*
 
@@ -29,15 +29,15 @@ title = "Swissalpine 2012. K42."
 
 Погодные условия:
 
-![image](../swissalpine-2012-k42-2.jpg)
+![image](/post/2013/03/swissalpine-2012-k42-2.jpg)
 
 *Средняя температура.*
 
-![image](../swissalpine-2012-k42-3.jpg)
+![image](/post/2013/03/swissalpine-2012-k42-3.jpg)
 
 *Средние осадки.*
 
-*![image](../swissalpine-2012-k42-4.jpg)*
+*![image](/post/2013/03/swissalpine-2012-k42-4.jpg)*
 
 * *
 

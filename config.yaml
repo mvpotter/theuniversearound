@@ -1,5 +1,6 @@
 baseurl: "http://theuniversearound.com/"
 languageCode: "ru-RU"
+canonifyurls: true
 title: "The Universe Around"
 theme: "beautifulhugo"
 disqusShortname: "theuniversearound"
