@@ -2,6 +2,7 @@
 bigimg = "/post/2016/08/vacation-april-may-2015-israel-tel-aviv-1.jpg"
 date = "2016-08-24T11:51:13+07:00"
 subtitle = ""
+tags = ["Израиль", "Тель-Авив"]
 title = "Отпуск. Апрель-Май 2016. Израиль. Тель Авив."
 +++
 
