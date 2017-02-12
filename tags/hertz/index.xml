@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hertz on The Universe Around</title>
-    <link>http://theuniversearound.com/tags/hertz/</link>
-    <description>Recent content in Hertz on The Universe Around</description>
+    <title>The Universe Around</title>
+    <link>http://theuniversearound.com/tags/hertz/index.xml</link>
+    <description>Recent content on The Universe Around</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <managingEditor>michaelpotter@mail.ru (Поттер Михаил)</managingEditor>
     <webMaster>michaelpotter@mail.ru (Поттер Михаил)</webMaster>
-    <lastBuildDate>Sat, 02 Jul 2016 17:00:38 +0000</lastBuildDate>
     <atom:link href="http://theuniversearound.com/tags/hertz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

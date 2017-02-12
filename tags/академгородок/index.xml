@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Академгородок on The Universe Around</title>
-    <link>http://theuniversearound.com/tags/%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA/</link>
-    <description>Recent content in Академгородок on The Universe Around</description>
+    <title>The Universe Around</title>
+    <link>http://theuniversearound.com/tags/%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA/index.xml</link>
+    <description>Recent content on The Universe Around</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <managingEditor>michaelpotter@mail.ru (Поттер Михаил)</managingEditor>
     <webMaster>michaelpotter@mail.ru (Поттер Михаил)</webMaster>
-    <lastBuildDate>Sun, 22 Jun 2014 06:30:00 +0000</lastBuildDate>
     <atom:link href="http://theuniversearound.com/tags/%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

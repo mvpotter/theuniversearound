@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Экстрим on The Universe Around</title>
-    <link>http://theuniversearound.com/tags/%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B8%D0%BC/</link>
-    <description>Recent content in Экстрим on The Universe Around</description>
+    <title>The Universe Around</title>
+    <link>http://theuniversearound.com/tags/%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B8%D0%BC/index.xml</link>
+    <description>Recent content on The Universe Around</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <managingEditor>michaelpotter@mail.ru (Поттер Михаил)</managingEditor>
     <webMaster>michaelpotter@mail.ru (Поттер Михаил)</webMaster>
-    <lastBuildDate>Sat, 30 Mar 2013 08:04:04 +0000</lastBuildDate>
     <atom:link href="http://theuniversearound.com/tags/%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B8%D0%BC/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

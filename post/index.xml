@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Universe Around</title>
-    <link>http://theuniversearound.com/post/</link>
-    <description>Recent content in Posts on The Universe Around</description>
+    <title>Post-rsses on The Universe Around</title>
+    <link>http://theuniversearound.com/post/index.xml</link>
+    <description>Recent content in Post-rsses on The Universe Around</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <managingEditor>michaelpotter@mail.ru (Поттер Михаил)</managingEditor>
@@ -17,7 +17,7 @@
       <pubDate>Sat, 31 Dec 2016 21:15:54 +0000</pubDate>
       <author>michaelpotter@mail.ru (Поттер Михаил)</author>
       <guid>http://theuniversearound.com/post/2016/12/review-2016/</guid>
-      <description>&lt;p&gt;По моим ощущениям этот год прошел лучше, чем 2015. В прошлом году ремонт отнял кучу времени и сил, пересекся по времени с поиском нового места работы и депрессия то и дело наступала мне на пятки. В этом году таких проблем не было и больше времени удалось выкроить на себя и на семью.&lt;/p&gt;
+      <description>&lt;p&gt;По моим ощущениям этот год прошел лучше, чем 2015. В прошлом году ремонт отнял кучу времени и сил, пересекся по времени с поиском нового места работы и депрессия то и дело наступала мне на пятки. В этом году таких проблем не было и больше времени удалось выкроить на себя и на семью. &lt;/p&gt;
 
 &lt;p&gt;Началось все не очень радужно, на новогодних съездили поздравили родителей в Барнаул и Новокузнецк и после поездки я сурово простудился. Но, с одной стороны, чувствовал себя поганенько, с другой, целыми днями ели и смотрели сериалы. Буквально за пару дней посмотрели &lt;a href=&#34;http://www.imdb.com/title/tt2802850/&#34;&gt;Fargo&lt;/a&gt;, очень рекомендую, кто еще не смотрел.&lt;/p&gt;
 
@@ -35,8 +35,7 @@
 
 &lt;p&gt;Так и пронесся год 2016. Желаю, чтобы у всех было то, что можно с радостью вспомнить, и чтобы 2017 был более насыщен на события и принес много ярких моментов! С наступающим Новым годом!:)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://theuniversearound.com/post/2016/12/review-2016.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;img src=&#34;http://theuniversearound.com/post/2016/12/review-2016.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,9 +44,7 @@
       <pubDate>Wed, 28 Dec 2016 22:35:26 +0700</pubDate>
       <author>michaelpotter@mail.ru (Поттер Михаил)</author>
       <guid>http://theuniversearound.com/post/2016/12/newborn-documents/</guid>
-      <description>
-
-&lt;p&gt;При рождении ребенка необходимо пройти бюрократический квест и оформить на него все необходимые документы. Мой опыт выглядел так:&lt;/p&gt;
+      <description>&lt;p&gt;При рождении ребенка необходимо пройти бюрократический квест и оформить на него все необходимые документы. Мой опыт выглядел так: &lt;/p&gt;
 
 &lt;h3 id=&#34;свидетельство-о-рождении&#34;&gt;Свидетельство о рождении&lt;/h3&gt;
 
@@ -96,8 +93,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;паспорт&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;свидетельство о рождении ребенка&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+&lt;/ul&gt;</description>
     </item>
     
     <item>
