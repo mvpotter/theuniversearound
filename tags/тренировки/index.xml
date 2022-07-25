@@ -1,26 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Тренировки on The Universe Around</title>
-    <link>http://theuniversearound.com/tags/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8/</link>
+    <link>https://mvpotter.github.io/theuniversearound/tags/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8/</link>
     <description>Recent content in Тренировки on The Universe Around</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <managingEditor>michaelpotter@mail.ru (Поттер Михаил)</managingEditor>
     <webMaster>michaelpotter@mail.ru (Поттер Михаил)</webMaster>
-    <lastBuildDate>Sun, 26 Oct 2014 05:50:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://theuniversearound.com/tags/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 26 Oct 2014 05:50:00 +0000</lastBuildDate><atom:link href="https://mvpotter.github.io/theuniversearound/tags/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Подготовка к Ironman Barcelona</title>
-      <link>http://theuniversearound.com/post/2014/10/ironman-barcelona-preparations/</link>
+      <link>https://mvpotter.github.io/theuniversearound/post/2014/10/ironman-barcelona-preparations/</link>
       <pubDate>Sun, 26 Oct 2014 05:50:00 +0000</pubDate>
       <author>michaelpotter@mail.ru (Поттер Михаил)</author>
-      <guid>http://theuniversearound.com/post/2014/10/ironman-barcelona-preparations/</guid>
+      <guid>https://mvpotter.github.io/theuniversearound/post/2014/10/ironman-barcelona-preparations/</guid>
       <description>Постараюсь поделиться своим опытом подготовки к соревнованиям по триатлону. Спортом я занимаюсь для себя и не планирую соревноваться с профессионалами, поэтому, как правило, готовлюсь к стартам сам. Согласен с мнением, что с тренером можно избежать множества ошибок и травм, но в таком подходе мне не очень нравится два обстоятельства:
- Тренер - это человек, и с ним нужно переодически встречаться/созваниваться, что влияет на гибкость графика тренировок и отнимает некоторое количество времени.</description>
+Тренер - это человек, и с ним нужно переодически встречаться/созваниваться, что влияет на гибкость графика тренировок и отнимает некоторое количество времени. Тренер хорош в случае, если вам нужен быстрый и высокий результат, и тренер, имея богатый опыт, поможет вам его достичь.</description>
     </item>
     
   </channel>
