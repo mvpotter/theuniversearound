@@ -30,28 +30,28 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
           <div class="posts-list">
-            {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
-            {{ range $pag.Pages }}
+            {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 10 }}
+            {{ range $paginator.Pages }}
             <article class="post-preview">
               <a href="{{ .Permalink }}">
           	  <h2 class="post-title">{{ .Title }}</h2>
-          	
+
           	  {{ if .Params.subtitle }}
           	  <h3 class="post-subtitle">
           	    {{ .Params.subtitle }}
           	  </h3>
-          	  {{ end }}  
+          	  {{ end }}
               </a>
 
               <p class="post-meta">
                 Опубликовано {{ .Date.Format "02.01.2006" }}
               </p>
-            
+
               <div class="post-entry">
                 {{ .Summary }}
           	  <a href="{{ .Permalink }}" class="post-read-more">[&nbsp;Читать&nbsp;Далее&nbsp;]</a>
               </div>
-            
+
              </article>
             {{ end }}
           </div>
@@ -60,12 +60,12 @@
           <ul class="pager main-pager">
             {{ if .Paginator.HasPrev }}
             <li class="previous">
-              <a href="{{ .URL }}page/{{ .Paginator.Prev.PageNumber }}">&larr; Следующие записи</a>
+              <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}">&larr; Следующие записи</a>
             </li>
             {{ end }}
             {{ if .Paginator.HasNext }}
             <li class="next">
-              <a href="{{ .URL }}page/{{ .Paginator.Next.PageNumber }}">Предыдущие записи &rarr;</a>
+              <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}">Предыдущие записи &rarr;</a>
             </li>
             {{ end }}
           </ul>
