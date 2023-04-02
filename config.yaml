@@ -1,16 +1,25 @@
 baseurl: "https://mvpotter.github.io/theuniversearound/"
-languageCode: "ru-RU"
-canonifyurls: true
+theme: "hugo-bearblog"
 title: "The Universe Around"
-theme: "beautifulhugo"
+author: "Поттер Михаил"
+languageCode: "en-us"
 disqusShortname: "theuniversearound"
-googleAnalytics: "UA-10647442-14"
+enableRobotsTXT: true
+canonifyurls: true
 
 params:
-  logo: "images/avatar.jpg"
-  subtitle: ""
+  hideMadeWithLine: false
 
 author:
   name: "Поттер Михаил"
   email: "michaelpotter@mail.ru"
   twitter: "dude1366"
+
+menu:
+  main:
+    - name: Email
+      url: mailto:michaelpotter@mail.ru
+    - name: Twitter
+      url: https://twitter.com/dude1366
+    - name: Telegram
+      url: https://t.me/mvpotter
