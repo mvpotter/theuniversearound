@@ -2,7 +2,7 @@ baseurl: "https://mvpotter.github.io/theuniversearound/"
 theme: "hugo-bearblog"
 title: "The Universe Around"
 author: "Поттер Михаил"
-languageCode: "en-us"
+languageCode: "ru-ru"
 disqusShortname: "theuniversearound"
 enableRobotsTXT: true
 canonifyurls: true
